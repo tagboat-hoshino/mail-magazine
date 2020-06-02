@@ -1,40 +1,42 @@
 {
-    "date": "20200605",
-    "title": "artistinterview",
+    "date": "20200609",
+    "title": "アーティストの制作工程を種明かしする<br>「How to Make」インタビュー特集<br>本日はシムラヒデミ、TARTAROS JAPANを<br>ご紹介します",
     "items": [
         {
-        	"name": "コラム",
-        	"url": "https://tagboat.tokyo/collectorinformation/how-much-is-your-art",
+        	"name": "シムラヒデミ",
+        	"url": "https://ec.tagboat.com/eccube_jp/html/products/list.php?author_id=100315&tngs_flg=0",
             "main": {
-            	"url": "https://tagboat.tokyo/collectorinformation/how-much-is-your-art",
-                "img": "https://tagboat.tokyo/wp-content/uploads/2020/05/f81fd2e4c52864042852c112ce927ae2.jpg",
-                "title": "あなたのアート作品を最も高く売る方法<br>コロナ時代は出品のチャンス",
-                "subtitle": "Column",
-                "description": "本物の紙幣を切る、混ぜる、見ないで掴み、貼る。TARTAROS JAPANはこの独自の手法を編み出し、公共性や違法性にアプローチしています。そんな作品制作における思考を、制作の過程に準えてご紹介します..."
+            	"url": "https://tagboat.tokyo/artistinterview/howtomake-hidemishimura",
+                "img": "https://tagboat.tokyo/wp-content/uploads/2020/05/shimura-2-min.jpg",
+                "title": "シムラヒデミ「How to Make」<br>刺繍糸で織りなす色彩の世界",
+                "subtitle": "Interview",
+                "description": "私たちをとりまく世界そのものを表しているという新シリーズ「パラレルワールド」。そこに込められた友人の秘話や、シルクの刺繍糸を使う材料へのこだわりが語られます。子どもでも真似できる糸を使った作品の作り方にも注目です。"
             },
             "sub": [
             	{
             		"img": "https://ec.tagboat.com/save_image/item57356p3.jpg",
-	                "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=57356",
-					"title": "「パラレルワールド(SS_ml11)」小池正典, 20 x 20 cm",
+					"title": "「パラレルワールド(SS_ml11)」シムラヒデミ, 20 x 20 cm",
 					"subtitle": "Now on Sale"
             	},
                 {
                     "img": "https://ec.tagboat.com/save_image/item57355p3.jpg",
-                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=57355",
                     "title": "「パラレルワールド(SS_ml3)」シムラヒデミ, 20 x 20 cm",
                     "subtitle": "Now on Sale"
                 },
                 {
+                    "img": "https://ec.tagboat.com/save_image/item59309p3.jpg",
+                    "title": "「Boundaries -Cherry Blossom- _3」シムラヒデミ, 24.9 x 17.4 cm",
+                    "subtitle": "Now on Sale"
+                },
+                {
                     "img": "https://ec.tagboat.com/save_image/item54895p3.jpg",
-                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=54895",
                     "title": "「サイレントインベーダー (SSW_blyg1)」シムラヒデミ, 14.5 x 41 cm",
                     "subtitle": "Now on Sale"
                 }           	
             ]
         },
         {
-        	"name": "渡邉富美子",
+        	"name": "TARTAROS JAPAN",
         	"url": "https://ec.tagboat.com/eccube_jp/html/products/list.php?author_id=100474&tngs_flg=0",
             "main": {
             	"url": "https://tagboat.tokyo/artistinterview/howtomake-tartarosjapan",
@@ -46,25 +48,21 @@
             "sub": [
             	{
                     "img": "https://ec.tagboat.com/save_image/item58853p3.jpg",
-                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=58853",
                     "title": "「Golden cookies Bitcoin smiley/$B55875061D」TARTAROS JAPAN, 40 x 40 cm",
                     "subtitle": "Now on Sale"
                 },
                 {
                     "img": "https://ec.tagboat.com/save_image/item58856p3.jpg",
-                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=58856",
                     "title": "「Large Golden cookies/World Automatic Circle pyramid Grid Xsmiley B69256943H」TARTAROS JAPAN, 60 x 60 cm",
                     "subtitle": "Now on Sale"
                 },
                 {
                     "img": "https://ec.tagboat.com/save_image/item58859p3.jpg",
-                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=58859",
                     "title": "「World Automatic Lady pyramid Grid symmetry」TARTAROS JAPAN, 50 x 27.5 cm",
                     "subtitle": "Now on Sale"
                 },
                 {
                     "img": "https://ec.tagboat.com/save_image/item58858p3.jpg",
-                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=58858",
                     "title": "「World Automatic Blue Tablet/Pyramid grid repeat」TARTAROS JAPAN, 91 x 60 cm",
                     "subtitle": "Now on Sale"
                 }
