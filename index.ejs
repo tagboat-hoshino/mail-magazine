@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<%- include('ejs/head') %>
+<body class="clean-body" style="margin: 0; padding: 0; -webkit-text-size-adjust: 100%; background-color: #FFFFFF;">
+	<!-- header -->
+	<%- include('ejs/header') %>
+
+	<!-- title -->
+	<% if(json.title) { %>
+		<%- include('ejs/line') %>
+		<%- include('ejs/title', {title: json.title}) %>
+	<% } %>
+
+	<% json.items.forEach(function (value, key) { %>
+
+		<!-- main -->
+		<% if(value.main) { %>
+			<%- include('ejs/mainItem',{
+				url: value.main.url,
+				img: value.main.img,
+				title: value.main.title,
+				subtitle: value.main.subtitle,
+				description: value.main.description,
+				button: "続きを読む"
+			}) %>
+			<%- include('ejs/line') %>
+		<% } %>
+
+		<!-- sub -->
+		<% if(value.sub.length) { %>
+			<% if(value.sub[0]) { %>
+			<div class="block-grid two-up no-stack" style="Margin: 0 auto; min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word;">
+				<%- include('ejs/item', {
+					url: value.sub[0].url,
+					img: value.sub[0].img,
+					title: value.sub[0].title,
+					subtitle: value.sub[0].subtitle,
+				}) %>
+				<% if(value.sub[1]) { %>
+					<%- include('ejs/item', {
+						url: value.sub[1].url,
+						img: value.sub[1].img,
+						title: value.sub[1].title,
+						subtitle: value.sub[1].subtitle,
+					}) %>
+				<% } else { %>
+				<div style="display: table-cell; width:50%; padding:0 0 30px; vertical-align: top;"></div>
+				<% } %>
+			</div>
+			<% } %>
+
+			<% if(value.sub[2]) { %>
+			<div class="block-grid two-up no-stack" style="Margin: 0 auto; min-width: 320px; max-width: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: break-word; background-color: #FFFFFF;">
+				<%- include('ejs/item', {
+					url: value.sub[2].url,
+					img: value.sub[2].img,
+					title: value.sub[2].title,
+					subtitle: value.sub[2].subtitle,
+				}) %>
+
+				<% if(value.sub[3]) { %>
+					<%- include('ejs/item', {
+						url: value.sub[3].url,
+						img: value.sub[3].img,
+						title: value.sub[3].title,
+						subtitle: value.sub[3].subtitle,
+					}) %>
+				<% } else { %>
+				<div style="display: table-cell; width:50%; padding:0 0 30px; vertical-align: top;"></div>
+				<% } %>
+			</div>
+			<% } %>
+
+			<!-- button -->
+			<%- include('ejs/button', {
+				url: value.url,
+				button: value.name + "のすべての作品を見る"
+			}) %>
+		<% } %>
+	<% }); %>
+
+	<!-- footer -->
+	<%- include('ejs/footer') %>
+</body>
+</html>

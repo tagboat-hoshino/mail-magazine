@@ -1,0 +1,81 @@
+{
+    "date": "20200602",
+    "title": "アーティストの制作工程を種明かしする<br>「How to Make」インタビュー特集<br>本日は有村佳奈、清水智裕をご紹介します",
+    "items": [
+        {
+        	"name": "有村佳奈",
+        	"url": "https://ec.tagboat.com/eccube_jp/html/products/list.php?author_id=100446&tngs_flg=0",
+            "main": {
+            	"url": "https://tagboat.tokyo/artistinterview/howtomake-kanaarimura",
+                "img": "https://tagboat.tokyo/wp-content/uploads/2020/04/a92188c0b5f433f1a7b4e2d8609bf25d-e1588042414417.jpg",
+                "title": "有村佳奈「How to Make」<br>色を塗り崩していく",
+                "subtitle": "Interview",
+                "description": "乙女と世界と生と死と日常を描き続ける有村佳奈。女の子の「憧れ」に対する複雑な心理を描き出そうと考え着いた新たな作品シリーズの秘話を、制作におけるこだわりやお気に入りのアトリエ風景とともにご紹介します。"
+            },
+            "sub": [
+            	{
+            		"img": "https://ec.tagboat.com/save_image/item59167p3.jpg",
+	                "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=59167",
+					"title": "「Night face」有村佳奈, 27.3 x 27.3 cm",
+					"subtitle": "Now on Sale"
+            	},
+            	{
+            		"img": "https://ec.tagboat.com/save_image/item56693p3.jpg",
+	                "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=56693",
+					"title": "「ベッドルーム」有村佳奈, 116.7 x 116.7 cm",
+					"subtitle": "Now on Sale"
+            	},
+            	{
+            		"img": "https://ec.tagboat.com/save_image/item59129p3.jpg",
+	                "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=59129",
+					"title": "「さよならpink」有村佳奈, 41 x 31.8 cm",
+					"subtitle": "Now on Sale"
+            	},
+            	{
+            		"img": "https://ec.tagboat.com/save_image/item59130p3.jpg",
+	                "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=59130",
+					"title": "「Secret」有村佳奈, 33.3 x 24.2 cm",
+					"subtitle": "Now on Sale"
+            	}
+            ]
+        },
+        {
+        	"name": "清水智裕",
+        	"url": "https://ec.tagboat.com/eccube_jp/html/products/list.php?author_id=100205&tngs_flg=0",
+            "main": {
+            	"url": "https://tagboat.tokyo/artistinterview/howtomake-tomohiroshimizu",
+                "img": "https://tagboat.tokyo/wp-content/uploads/2020/05/2f75e021f8d0aa63e2c264fa356b2018-e1588835135180.jpg",
+                "title": "清水智裕「How to Make」<br>塗りを拭きとり描き出す余白",
+                "subtitle": "Interview",
+                "description": "清水智裕の作品の味わいは、油絵具を塗り重ねるのではなく、拭き取ることで輪郭を浮かび上がらせる手法から生まれています。その手法に込められた思いや、実際の作業風景、また、作品の完成の見極め方など制作の裏側を大公開します。"
+            },
+            "sub": [
+            	{
+            		"img": "https://ec.tagboat.com/save_image/item58000p3.jpg",
+	                "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=58000",
+					"title": "「再会」清水智裕, 91 x 72.7 cm",
+					"subtitle": "Now on Sale"
+            	},
+            	{
+            		"img": "https://ec.tagboat.com/save_image/item57996p3.jpg",
+	                "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=57996",
+					"title": "「LDK」清水智裕, 33.3 x 24.2 cm",
+					"subtitle": "Now on Sale"
+            	},
+            	{
+            		"img": "https://ec.tagboat.com/save_image/item58136p3.jpg",
+	                "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=58136",
+					"title": "「アトラス」清水智裕, 91 x 91 cm",
+					"subtitle": "Now on Sale"
+            	},
+            	{
+            		"img": "https://ec.tagboat.com/save_image/item57983p3.jpg",
+	                "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=57983",
+					"title": "「アクト」清水智裕, 91 x 91 cm",
+					"subtitle": "Now on Sale"
+            	}
+            ]
+        }
+        
+    ]
+}

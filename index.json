@@ -1,0 +1,75 @@
+{
+    "date": "20200605",
+    "title": "artistinterview",
+    "items": [
+        {
+        	"name": "コラム",
+        	"url": "https://tagboat.tokyo/collectorinformation/how-much-is-your-art",
+            "main": {
+            	"url": "https://tagboat.tokyo/collectorinformation/how-much-is-your-art",
+                "img": "https://tagboat.tokyo/wp-content/uploads/2020/05/f81fd2e4c52864042852c112ce927ae2.jpg",
+                "title": "あなたのアート作品を最も高く売る方法<br>コロナ時代は出品のチャンス",
+                "subtitle": "Column",
+                "description": "本物の紙幣を切る、混ぜる、見ないで掴み、貼る。TARTAROS JAPANはこの独自の手法を編み出し、公共性や違法性にアプローチしています。そんな作品制作における思考を、制作の過程に準えてご紹介します..."
+            },
+            "sub": [
+            	{
+            		"img": "https://ec.tagboat.com/save_image/item57356p3.jpg",
+	                "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=57356",
+					"title": "「パラレルワールド(SS_ml11)」小池正典, 20 x 20 cm",
+					"subtitle": "Now on Sale"
+            	},
+                {
+                    "img": "https://ec.tagboat.com/save_image/item57355p3.jpg",
+                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=57355",
+                    "title": "「パラレルワールド(SS_ml3)」シムラヒデミ, 20 x 20 cm",
+                    "subtitle": "Now on Sale"
+                },
+                {
+                    "img": "https://ec.tagboat.com/save_image/item54895p3.jpg",
+                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=54895",
+                    "title": "「サイレントインベーダー (SSW_blyg1)」シムラヒデミ, 14.5 x 41 cm",
+                    "subtitle": "Now on Sale"
+                }           	
+            ]
+        },
+        {
+        	"name": "渡邉富美子",
+        	"url": "https://ec.tagboat.com/eccube_jp/html/products/list.php?author_id=100474&tngs_flg=0",
+            "main": {
+            	"url": "https://tagboat.tokyo/artistinterview/howtomake-tartarosjapan",
+                "img": "https://tagboat.tokyo/wp-content/uploads/2020/05/43779541_308399519883621_8026046599960963702_n-e1588913135852.jpg",
+                "title": "TARTAROS JAPAN「How to Make」<br>独自の絵画手法 Automatic Painting",
+                "subtitle": "Interview",
+                "description": "本物の紙幣を切る、混ぜる、見ないで掴み、貼る。TARTAROS JAPANはこの独自の手法を編み出し、公共性や違法性にアプローチしています。そんな作品制作における思考を、制作の過程に準えてご紹介します。"
+            },
+            "sub": [
+            	{
+                    "img": "https://ec.tagboat.com/save_image/item58853p3.jpg",
+                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=58853",
+                    "title": "「Golden cookies Bitcoin smiley/$B55875061D」TARTAROS JAPAN, 40 x 40 cm",
+                    "subtitle": "Now on Sale"
+                },
+                {
+                    "img": "https://ec.tagboat.com/save_image/item58856p3.jpg",
+                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=58856",
+                    "title": "「Large Golden cookies/World Automatic Circle pyramid Grid Xsmiley B69256943H」TARTAROS JAPAN, 60 x 60 cm",
+                    "subtitle": "Now on Sale"
+                },
+                {
+                    "img": "https://ec.tagboat.com/save_image/item58859p3.jpg",
+                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=58859",
+                    "title": "「World Automatic Lady pyramid Grid symmetry」TARTAROS JAPAN, 50 x 27.5 cm",
+                    "subtitle": "Now on Sale"
+                },
+                {
+                    "img": "https://ec.tagboat.com/save_image/item58858p3.jpg",
+                    "url": "https://ec.tagboat.com/eccube_jp/html/products/detail.php?product_id=58858",
+                    "title": "「World Automatic Blue Tablet/Pyramid grid repeat」TARTAROS JAPAN, 91 x 60 cm",
+                    "subtitle": "Now on Sale"
+                }
+            ]
+        }
+        
+    ]
+}
